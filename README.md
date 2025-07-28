@@ -1,2 +1,2 @@
 # Actividad-2_Wrangling
-Esta es la etapa de auditoría y limpieza de datos
+Esta es la etapa de auditoría y limpieza de datos. Se utilizó un dataset sobre incendios forestales en México proveniente de la web de la Comisión Nacional Forestal (https://www.datos.gob.mx/dataset/incendios_forestales). Se realizó una inspección estrutural, se buscaron inconsistencias, se identificaron datos NA y datos repetidos. Posteriormente se realizó la limpieza de los datos empleando herramientas y código comúnmente utilizado para Wrangling.
